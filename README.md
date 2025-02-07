@@ -1,4 +1,5 @@
-h1 align="center">🌟 Marianne Oliveira 🌟</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end+e+UI/UX;Apaixonado+por+tecnologia;Criando+experiências+incríveis!+🚀"> </p>
+<h1 align="center"> Marianne Oliveira 💻 </h1> <p align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=962CF7&width=435&lines=Desenvolvedora+Back-end;Abra%C3%A7ando+a+inova%C3%A7%C3%A3o+um+byte+de+cada+vez+" alt="Typing SVG" /></a>
 
 ## Sobre mim 
 Sou uma desenvolvedora apaixonada por todo universo de tecnologia. Já trabalhei em vários projetos pessoais e profissionais, e estou sempre ansiosa para aprender.
@@ -6,17 +7,13 @@ Sou uma desenvolvedora apaixonada por todo universo de tecnologia. Já trabalhei
 Minha jornada com tecnologia iniciou há 2 anos e, desde então, busco frequente aprendizado para desenvolver minhas habilidades técnicas.
 Minha graduação é Análise e Desenvolvimento de sistemas e ataulmente estou focada na programação Back-end. 
 
-<!--
-**MarianneVo/MarianneVo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias e hard skills 
 
-Here are some ideas to get you started:
+- 🚀Linguagens e Frameworks : JavaScript, C#, Python, SQL, .NET , Angular  
+- 🗄️Data Tools: MySQL, PostgreSQL, MongoDB, SQLite, SQL Server
+- ⚙️ General tools: Entity Framework (.NET), Hibernate (Java), Postman
+- ☁️ Cloud: AWS services, Azure
+- ❇️ Version Control: Git, GitHub, GitLab
+- 🛠️ IDE: Visual Studio Code, Visual Studio, NetBeans, Eclipse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Adoro me conectar e colaborar com pessoas diferentes, então, ficarei feliz em conhecê-lo mais! :)
