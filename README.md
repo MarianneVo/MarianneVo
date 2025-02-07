@@ -1,4 +1,10 @@
-## Hi there 👋
+h1 align="center">🌟 Marianne Oliveira 🌟</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end+e+UI/UX;Apaixonado+por+tecnologia;Criando+experiências+incríveis!+🚀"> </p>
+
+## Sobre mim 
+Sou uma desenvolvedora apaixonada por todo universo de tecnologia. Já trabalhei em vários projetos pessoais e profissionais, e estou sempre ansiosa para aprender.
+
+Minha jornada com tecnologia iniciou há 2 anos e, desde então, busco frequente aprendizado para desenvolver minhas habilidades técnicas.
+Minha graduação é Análise e Desenvolvimento de sistemas e ataulmente estou focada na programação Back-end. 
 
 <!--
 **MarianneVo/MarianneVo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
